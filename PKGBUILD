@@ -1,5 +1,5 @@
-# Maintainer: Foo Bar <foobar@example.com>
-# Maintainer: Billy Joe <billyjoe@example.com>
+# Maintainer: MatuusOS
+# Maintainer: MatuusOS
 
 pkgname=matuusos-calamares
 pkgrel=1

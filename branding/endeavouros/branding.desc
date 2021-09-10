@@ -1,4 +1,4 @@
-componentName: endeavouros
+componentName: matuusos
 
 welcomeStyleCalamares: false
 
@@ -15,13 +15,13 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         EndeavourOS
-    shortProductName:    EndeavourOS
-    version:             2021.05.28
-    shortVersion:        2021.05.28
-    versionedName:       EndeavourOS
-    shortVersionedName:  EndeavourOS
-    bootloaderEntryName: EndeavourOS
+    productName:         MatuusOS
+    shortProductName:    MatuusOS
+    version:             2109
+    shortVersion:        2109
+    versionedName:       MatuusOS
+    shortVersionedName:  MatuusOS
+    bootloaderEntryName: MatuusOS
 
 # log feature
 
